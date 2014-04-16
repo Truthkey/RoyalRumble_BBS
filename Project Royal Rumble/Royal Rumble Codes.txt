@@ -1,0 +1,7 @@
+_C0 Beacon Hacked
+_L 0x111121d 0x00000002
+_L 0x1111271 0x00000089
+_L 0x1111275 0x43b70000
+_L 0x11112b9 0x000000XX
+
+Add the digit for the character you want to target in the XX
